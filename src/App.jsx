@@ -309,7 +309,7 @@ export default function App() {
       <footer className="app-footer">
         <div className="footer-content">
           <span className="footer-brand">
-            <strong>HabitFlow Pro</strong> • Elevate Your Daily Discipline
+            <strong>Habit Pro</strong> • Elevate Your Daily Discipline
           </span>
           <button 
             className="footer-reset-btn" 

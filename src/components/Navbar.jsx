@@ -60,12 +60,12 @@ export default function Navbar({
   return (
     <header className="navbar-container">
       <div className="navbar-left">
-        <div className="brand-badge" onClick={handleResetToday} role="button" tabIndex={0} title="HabitFlow Pro - Return to Today">
+        <div className="brand-badge" onClick={handleResetToday} role="button" tabIndex={0} title="Habit Pro - Return to Today">
           <div className="brand-logo-ring">
             <Flame className="brand-flame-icon" size={24} />
           </div>
           <div className="brand-titles">
-            <span className="brand-title">HabitFlow<span className="brand-gradient-text">Pro</span></span>
+            <span className="brand-title">Habit<span className="brand-gradient-text">Pro</span></span>
             <span className="brand-tagline">Achieve Daily Greatness</span>
           </div>
         </div>
